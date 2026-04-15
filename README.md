@@ -1,15 +1,10 @@
-# kjkjnkjn <br></br>
-## n,njnlknkmlm
-			kjnkjnkjnkj
+# Este é um repositório de teste <br></br>
+## Turma Serrapilheira 2026
+			
+### Atividades
+  Aqui vamos ter atividades para testar comandos básicos do git e do github, como:
 
-### teste 1
-	ljndelkjnd
-		lkdmlkm
-
-1) odeokm
-2) ddasd
-3) dasas
-
-* lkdamlskm
-* ldnsldnas
+1) fazer commits
+2) criar branches
+3) criar pull requests, etc.
 
