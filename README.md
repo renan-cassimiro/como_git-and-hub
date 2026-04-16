@@ -1,4 +1,4 @@
-# Este é um repositório de teste <br></br>
+# Este é um repositório de teste
 ## Turma Serrapilheira 2026
 			
 ### Atividades
