@@ -466,7 +466,7 @@ do repositório analisar sua sugestão e fazer o `merge` no ramo
 <center><img src="figs/git_25.png" style="width:60%"/> <br><br></center>
 
 Clique novamente no botão **Create pull request** para confirmar sua
-contribuição. Visualize a página e veja como ficou.
+contribuição. Visualize a [página](participantes.html) e veja como ficou.
 
 <center><img src="figs/git_26.png" style="width:60%"/> <br><br></center>
 
